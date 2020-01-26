@@ -124,7 +124,7 @@
 - Spring Boot 和 Spring Cloud，谈谈你对它们的理解？
 - 什么是服务熔断？什么是服务降级？
 - 微服务的优缺点分别是什么？说一下你在项目开发中碰到的坑？
-- [你所知道的微服务技术栈都有哪些？](/docs/micro-services/huifer-micro-services-technology-stack%20.md)
+- [你所知道的微服务技术栈都有哪些？](/docs/micro-services/huifer-micro-services-technology-stack.md)
 - [微服务治理策略](/docs/micro-services/huifer-micro-service-governance.md)
 - Eureka 和 Zookeeper 都可以提供服务注册与发现的功能，它们有什么区别？
 - ......
@@ -153,7 +153,7 @@
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## 公众号
-GitHub 技术社区 Doocs 旗下唯一公众号“Doocs 开源社区”，欢迎关注，专注于分享有价值的文章；当然，也可以加我个人微信（备注：GitHub）。
+GitHub 技术社区 [Doocs](https://github.com/doocs) 旗下唯一公众号「**Doocs开源社区**」​，欢迎扫码关注，**专注分享技术领域相关知识及行业最新资讯**。当然，也可以加我个人微信（备注：GitHub），拉你进技术交流群。
 
 <table>
     <tr>
